@@ -1,0 +1,238 @@
+.header{
+     background-image: linear-gradient(to bottom right, #ff4900,#00243d ); 
+     
+}
+.tam{
+    color: black;
+    font-size:50px;
+    display:block;
+    font-weight: Bold;
+    text-align:center;
+    height: 50px;
+    font-size: 70px;
+}
+
+.tamil{
+    
+    color: black;
+    font-size:50px;
+    font-weight: Bold;
+    text-align:center;
+    height: 50px;
+    font-size: 70px;
+}
+.gaming{
+    color:black;
+    font-size:50px;
+    font-weight:bold;
+    text-align:center;
+    height: 50px;
+    font-size: 70px;
+}
+.community{
+    color:black;
+    font-size:50px;
+    font-weight:bold;
+    text-align:center;
+    height: 50px;
+    font-size: 70px;
+}
+body {
+    background-color: black;
+}
+a{
+    text-decoration:none;
+}
+.tamilgaming{
+    color: #ff5e00;
+    
+    font-weight: Bold;
+    text-align:center;
+    height: 50px;
+    font-size: 100px;
+}
+.lol{
+    color: #50ff00;
+    
+    font-weight: Bold;
+    text-align:center;
+    height: 50px;
+    font-size: 100px;
+}
+.sai{
+    color: #ffc700;
+    
+    font-weight: Bold;
+    text-align:center;
+    height: 50px;
+    font-size: 100px;
+}
+.a2d{
+    color: white;
+    
+    font-weight: Bold;
+    text-align:center;
+    height: 50px;
+    font-size: 130px;
+}
+.us{
+    color: #ff1f00;
+    
+    font-weight: Bold;
+    text-align:center;
+    height: 50px;
+    font-size: 100px;
+}
+.ig{
+    color: #ffb200;
+    
+    font-weight: Bold;
+    text-align:center;
+    height: 50px;
+    font-size: 100px;
+}
+.ttg{
+    color: #00c0ff;
+    
+    font-weight: Bold;
+    text-align:center;
+    height: 50px;
+    font-size: 100px;
+}
+.jithin{
+    color: #ff0049;
+    
+    font-weight: Bold;
+    text-align:center;
+    height: 50px;
+    font-size: 100px;
+}
+.dokku{
+    color: white;
+    
+    font-weight: Bold;
+    text-align:center;
+    height: 50px;
+    font-size: 100px;
+}
+.cpk{
+    color: #ff001f;
+    
+    font-weight: Bold;
+    text-align:center;
+    height: 50px;
+    font-size: 100px;
+}
+.reaper{
+    color: #ffc700;
+    
+    font-weight: Bold;
+    text-align:center;
+    height: 50px;
+    font-size: 100px;
+}
+.gttm{
+    color:#ff000a ;
+    
+    font-weight: Bold;
+    text-align:center;
+    height: 50px;
+    font-size: 100px;
+}
+.supreme{
+    color:#0081ff ;
+    
+    font-weight: Bold;
+    text-align:center;
+    height: 50px;
+    font-size: 70px;
+}
+.yv{
+    color: #00d5ff;
+    
+    font-weight: Bold;
+    text-align:center;
+    height: 50px;
+    font-size: 100px;
+}
+.dandan{
+    color: #ff55f1;
+    
+    font-weight: Bold;
+    text-align:center;
+    height: 50px;
+    font-size: 100px;
+}
+.wd{
+    color: #7a00ff;
+    
+    font-weight: Bold;
+    text-align:center;
+    height: 50px;
+    font-size: 100px;
+}
+
+.footer{
+    background-color:#2a2a2a ;
+}
+
+.footer1{
+ display: grid;
+ align-items: center; 
+ grid-template-columns: 1fr 1fr 1fr;
+ column-gap: 3px;
+}
+
+.youtube1{
+  font-size: 40px;
+}
+a{
+    text-decoration:none;
+    color:#ff4900;
+}
+.link{
+    text-decoration:none;
+    color:#ff7300;
+}
+.tweeter1{
+    font-size:40px;
+}
+.mail1{
+    font-size:30px;
+    color:#ff7300;
+}
+.facebook1{
+    font-size:40px;
+}
+.instagram1{
+    font-size:40px;
+}
+.cu{
+    color:white;
+    text-align:center;
+    text-decoration:underline;
+}
+.name{
+    color:white;
+    font-weight: Bold;
+    text-align:center;
+    height: 50px;
+    font-size: 100px;
+    margin-top:100px;
+}
+.om{
+    color:white;
+    font-weight: Bold;
+    text-align:center;
+    height: 50px;
+    font-size: 100px;
+    text-decoration:underline;
+}
+.back{
+    width: 100px;
+    height: 100px;
+    display:block;
+}
+.logo{
+    
+}
